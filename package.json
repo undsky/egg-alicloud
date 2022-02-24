@@ -1,7 +1,7 @@
 {
   "name": "egg-alicloud",
   "version": "1.0.0",
-  "description": "alicloud plugin for egg",
+  "description": "Egg plugin for alicloud",
   "eggPlugin": {
     "name": "alicloud"
   },

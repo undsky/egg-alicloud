@@ -1,6 +1,6 @@
 # egg-alicloud
 
-> alicloud plugin for egg
+> Egg plugin for alicloud
 
 ## 安装
 
