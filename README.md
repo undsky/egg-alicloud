@@ -21,9 +21,13 @@ egg 2.x | egg 1.x
 ### 依赖的插件
 
 [@alicloud/dyvmsapi20170525](https://www.npmjs.com/package/@alicloud/dyvmsapi20170525)
+
 [@alicloud/fc2](https://www.npmjs.com/package/@alicloud/fc2)
+
 [@alicloud/fnf-2019-03-15](https://www.npmjs.com/package/@alicloud/fnf-2019-03-15)
+
 [@alicloud/openapi-client](https://www.npmjs.com/package/@alicloud/openapi-client)
+
 [@alicloud/pop-core](https://github.com/aliyun/openapi-core-nodejs-sdk)
 
 ## 开启插件
