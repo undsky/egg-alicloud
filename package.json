@@ -1,7 +1,7 @@
 {
   "name": "egg-alicloud",
   "version": "1.0.0",
-  "description": "",
+  "description": "alicloud plugin for egg",
   "eggPlugin": {
     "name": "alicloud"
   },
@@ -52,12 +52,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-alicloud.git"
+    "url": "git+https://github.com/undsky/egg-alicloud.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/undsky/egg-alicloud/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-alicloud#readme",
-  "author": "",
+  "homepage": "https://github.com/undsky/egg-alicloud#readme",
+  "author": "姜彦汐 https://www.undsky.com",
   "license": "MIT"
 }
