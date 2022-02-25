@@ -1,6 +1,6 @@
 {
   "name": "egg-alicloud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Egg plugin for alicloud",
   "eggPlugin": {
     "name": "alicloud"
@@ -17,7 +17,8 @@
     "@alicloud/fc2": "^2.5.2",
     "@alicloud/fnf-2019-03-15": "^1.2.0",
     "@alicloud/openapi-client": "^0.4.1",
-    "@alicloud/pop-core": "^1.7.10"
+    "@alicloud/pop-core": "^1.7.10",
+    "egg-oss": "^2.0.0"
   },
   "devDependencies": {
     "autod": "^3.1.1",

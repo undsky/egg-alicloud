@@ -2,7 +2,7 @@
  * @Author: 姜彦汐
  * @Date: 2021-01-03 21:20:22
  * @LastEditors: 姜彦汐
- * @LastEditTime: 2022-02-24 11:02:50
+ * @LastEditTime: 2022-02-25 10:45:50
  * @Description: 
  * @Site: https://www.undsky.com
  */
@@ -17,10 +17,9 @@ module.exports = app => {
 }
 
 function init(config, app) {
-    let aliyun = {}
-
-    if (app.oss)
-        aliyun.oss = app.oss
+    let aliyun = {
+        oss: app.oss
+    }
 
     if (config.call)
         aliyun.call = call(config)
